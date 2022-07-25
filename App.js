@@ -5,6 +5,7 @@ export default App = () => {
   return (
     <View style={{flex: 1, justifyContent: 'center', alignItems: 'center'}}>
       <Text>{API_KEY}</Text>
+      <View />
     </View>
   );
 };
